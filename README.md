@@ -1,5 +1,6 @@
 # Get-next-line
-Get Next Line Leer una línea de un file descriptor es demasiado aburrido Resumen: El objetivo de este proyecto es simple: programar una función que devuelva una línea leída de un file descriptor. 
+Get Next Line Reading a line from a file descriptor is too boring .
+Summary: The goal of this project is simple: program a function that returns a line read from a file descriptor.
 
 After this project , you will see increased the following skills : 
   - Rigor
